@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EventBusWithFlow</string>
+    <string name="trigger_event">Trigger Event</string>
 </resources>
